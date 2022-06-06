@@ -7,7 +7,7 @@ edition = "2018"
 [dependencies]
 font-loader = "0.7.0"
 imageproc = "0.17.0"
-image = "0.20.1"
+image = "0.21.3"
 rusttype = "0.7.3"
 rand = "0.6.1"
 rust-crypto = "^0.2"
